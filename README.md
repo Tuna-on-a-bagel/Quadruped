@@ -6,10 +6,7 @@ Kinematics following DH standard here: https://github.com/users/Tuna-on-a-bagel/
 
 Leg joint angles are given in [ab/ad, shoulder, knee].T
 
-Leg frames have been assigned and can be seen here:
-
-<img src="https://user-images.githubusercontent.com/51982197/268480703-fc66cad1-2a8c-4a43-9396-b6a2c6a0dee0.png" alt="Image" width="400">
-<img src="https://user-images.githubusercontent.com/51982197/268480706-da3b65ca-fc4b-4c03-9838-1087ae24d1ad.png" alt="Image" width="400">
+Leg frames have been assigned and can be seen here: https://github.com/users/Tuna-on-a-bagel/projects/7?pane=issue&itemId=36346989
 
 
 foot positions are give in [x, y, z].T in **LEG BASE FRAME**
